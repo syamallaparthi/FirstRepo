@@ -22,3 +22,5 @@
     - We can create it either in the chrome from pull request tab or from the link we get from the git push origin <branch_name> command
 - Merge the Pull request:
     - Merge the pull request if it doesn't have any conflicts.
+
+For Git Repo refer here: https://github.com/syamallaparthi/FirstRepo.git
