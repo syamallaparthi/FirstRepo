@@ -27,3 +27,5 @@ For Git Repo refer here: https://github.com/syamallaparthi/FirstRepo.git
 
 ``` Assignment-1```
 - This is my first assignment
+
+- Made changes to the Readme
